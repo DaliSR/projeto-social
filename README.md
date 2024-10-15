@@ -6,7 +6,7 @@ Site criado durante o curso de HTML5 e CSS3, ministrado pelo Prof. Gustavo Guana
 
 **Front-end:** HTML, CSS
 
-:open_file_folder:[Acesso ao projeto]( https://dalilassr.github.io/projeto-social/ )
+:open_file_folder:[Acesso ao projeto]( https://dalisr.github.io/projeto-social/ )
 
 <h1 aling="left">Tela Mobile</h1>
 
